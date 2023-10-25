@@ -5,8 +5,6 @@
 
 2D OR Demo Video Link: https://drive.google.com/file/d/1EqCNGjCTW_MOxVOo04GyAfbObuMoZnxk/view?usp=sharing
 
-Wiki Link: https://wiki.khoury.northeastern.edu/pages/resumedraft.action?draftId=108640371&draftShareId=1422d985-0da5-461d-b317-7760deb79f82&
-
 OS and IDE: Windows 10 // VSCode
 
 Instructions for executeables
